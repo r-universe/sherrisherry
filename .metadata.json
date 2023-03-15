@@ -1,10 +1,10 @@
 [
   {
-    "package": "cleandata",
+    "package": "batchscr",
     "oncran": true
   },
   {
-    "package": "batchscr",
+    "package": "cleandata",
     "oncran": true
   }
 ]

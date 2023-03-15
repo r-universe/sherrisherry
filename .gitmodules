@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "cleandata"]
-	path = cleandata
-	url = https://github.com/sherrisherry/cleandata
-	shallow = true
-	registered = true
 [submodule "batchscr"]
 	path = batchscr
 	url = https://github.com/sherrisherry/batchscr
+	shallow = true
+	registered = true
+[submodule "cleandata"]
+	path = cleandata
+	url = https://github.com/sherrisherry/cleandata
 	shallow = true
 	registered = true
